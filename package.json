@@ -1,0 +1,20 @@
+{
+  "name": "@dchmerenko/first-hexlet-project",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "My first JavaScript project on Hexlet.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dchmerenko/hexlet-js.git"
+  },
+  "author": "Dmitry Chmerenko <dchmerenko@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dchmerenko/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/dchmerenko/hexlet-js#readme"
+}
